@@ -1,0 +1,26 @@
+/* 
+  Localizable.strings
+  BoardTimer
+
+  Created by Daesik Choi on 3/15/21.
+  
+*/
+"Start" = "Start";
+"Resume" = "Resume";
+"Next" = "Next";
+"Pause" = "Pause";
+"Finish" = "Finish";
+"Set Time" = "Set Time";
+"Confirm" = "Confirm";
+"Cancel" = "Cancel";
+"Record" = "Record";
+"Red" = "Red";
+"Blue" = "Blue";
+"Green" = "Green";
+"Yellow" = "Yellow";
+"Purple" = "Purple";
+"Order" = "Order";
+"Nickname" = "Nickname";
+"Result" = "Result";
+"Place" = "Place";
+"Restart" = "Restart";

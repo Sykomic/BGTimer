@@ -1,0 +1,27 @@
+/* 
+  Localizable.strings
+  BoardTimer
+
+  Created by Daesik Choi on 3/15/21.
+  
+*/
+
+"Start" = "시작";
+"Resume" = "다시 시작";
+"Next" = "다음";
+"Pause" = "일시정지";
+"Finish" = "마침";
+"Set Time" = "시간 설정";
+"Confirm" = "확인";
+"Cancel" = "취소";
+"Record" = "기록";
+"Red" = "빨강";
+"Blue" = "파랑";
+"Green" = "초록";
+"Yellow" = "노랑";
+"Purple" = "보라";
+"Order" = "순서";
+"Nickname" = "닉네임";
+"Result" = "결과";
+"Place" = "순위";
+"Restart" = "처음부터";
